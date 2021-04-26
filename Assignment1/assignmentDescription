@@ -1,0 +1,14 @@
+Introduction to Data and Cyber-Security (DCS3101) Assignment 1
+
+Q1 Consider Alice wants to send the message "Introduction to Data and Cyber-Security (DCS3101)" to Bob. Illustrate the concepts of CIA within the communication between Alice and Bob.
+
+
+Q2 Consider the sentence: "The quick brown fox jumps over the lazy dog." Write a script/program to encrypt this using Vigenere Ciphering.
+• Illustrate the concepts of Vigenere Ciphering.	
+• Single key: "Kongsberg"	[2 Points]
+• Two keys: key-1: "Norway" and key-2: "Oslo".	
+
+*Note: The answer will be tested by giving a random string to verify the correctness of the script/program.
+
+Q3 Explain the concepts of "Confusion" and "Diffusion" in information security with respect to DES.
+
